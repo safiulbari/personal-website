@@ -59,6 +59,7 @@
     border-radius: 8px;
     color: white;
 }
+
 .txt-btn:hover{
     border: 1px solid coral !important;
     background: white!important;
@@ -161,4 +162,18 @@
 #footer{
     color: gray;
     padding-top: 70px;
+}
+
+#txbtn{
+    text-decoration: none;
+    background-color: coral;
+    padding:10px 26px;
+    border-radius: 8px;
+    color: white;
+}
+
+#txbtn:hover{
+    background-color: white;
+    border:1px solid coral;
+    color: coral;
 }
