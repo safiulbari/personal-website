@@ -1,0 +1,164 @@
+* {
+    font-family: 'Poppins';
+    font-weight: 500;
+    margin: 0;
+}
+.half{
+    width: 40%;
+    float: left;
+    padding-left: 8%;
+    padding-top: 5%;
+
+}
+.imgs{
+    width: 100%;
+}
+.container{
+    background-image: url("img/header-bg.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 720px;
+}
+
+.highlight-2{
+    position: relative;
+    bottom: -20px;
+    font-size: 2em;
+    margin-top: 45px;
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+.highlight{
+    margin-top: 10px;
+    font-size: 4em;
+    font-weight: 700;
+    color: coral;
+    padding-top: 0;
+    margin-top: 0;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+
+}
+
+#half-text{
+    margin-top: 40px;
+
+}
+
+.bnp{
+    color: #aaa;
+    padding-top: 0;
+    margin-top: 0;
+    margin-bottom: 40px;
+}
+.txt-btn{
+
+    text-decoration: none;
+    background-color: coral;
+    padding:10px 26px;
+    border-radius: 8px;
+    color: white;
+}
+.txt-btn:hover{
+    border: 1px solid coral !important;
+    background: white!important;
+    color: coral!important;
+}
+
+.imgs-2{
+    width: 400px;
+}
+.scnd-section{
+    background-image:url("img/biography-bg.png") ;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 650px;
+}
+
+.scnd-txt{
+    padding-top:150px;
+}
+
+.biography-txt{
+    font-size: 3em;
+    font-weight: 500;
+    padding-bottom: 20px;
+}
+#img-4{
+    position: relative;
+    top: -20px;
+}
+#lastest-work{
+    background-image:url("img/latest-work-bg.png") ;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 500px;
+}
+
+.lst-wrk-h{
+    padding:20px;
+    font-size: 2.3em;
+    font-weight: 500;
+    text-align: center;
+}
+
+.latest-work-img{
+    float: left;
+    width: 25%;
+    margin-top: 40px;
+    margin-left:30px;
+    background-color: coral;
+}
+
+
+.nd{
+    padding-left:15%;
+}
+
+.before-footer{
+    background-image: url("img/footer-bg.png");
+    height: 600px;
+    text-align: center;
+}
+.msg{
+    background-color: coral;
+    margin: 0 auto;
+    padding:50px 100px;
+    width: 500px;
+    color: white;
+    border-radius: 10px;
+}
+.msg h3{
+    font-size: 1.2em;
+}
+.msg p{
+    font-size: 1.4em;
+    font-weight: 600;
+}
+
+.styled {
+    padding-top: 40px;
+    padding-bottom: 40px;
+
+
+    }
+.styled p{
+            text-align: center;
+            padding-top: 20px;
+            padding-bottom:20px;
+            width:400px;
+            margin: 0 auto;
+    }
+.styled h5{
+        margin-bottom: 10px ;
+}
+
+.styled h4{
+    font-weight: bolder;
+    font-size: 20px;
+}
+    
+#footer{
+    color: gray;
+    padding-top: 70px;
+}
